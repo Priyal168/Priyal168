@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Priyal</h1>
 <h3 align="center">Passionate Learner | Developer | Newbie Competitive Coder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyal168" alt="priyal168" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & DSA in c++**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
